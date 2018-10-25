@@ -1,0 +1,255 @@
+﻿a	một
+ability	có khả năng
+actually	thực sự
+again	lại, một lần nữa
+almost	hầu như
+already	rồi
+alright	được
+also	cũng
+always	luôn luôn
+and	và
+angry	giận dữ
+animal	thú vật
+another	một...khác
+anything	bất cứ cái gì
+are	là
+at	tại
+bad	dở
+badly	một cách tệ
+because	bởi vì
+beginner	người bắt đầu
+beside	bên cạnh
+best	tốt nhất
+better	tốt hơn
+big	lớn
+bird	chim
+black	đen
+blue	xanh dương
+book	sách
+both	cả hai
+brown	nâu
+but	nhưng
+carefully	một cách cẩn thận
+cat	mèo
+certainly	dĩ nhiên
+chance	cơ hội
+clean	lau chùi
+common	chung
+complete	đầy đủ
+correct	đúng
+could	có thể
+cow	bò cái
+custom	phong tục
+dangerous	nguy hiểm
+definitely	dứt khoát
+did	đã làm
+different	khác
+difficult	khó
+dirty	dơ bẩn
+disturb	quấy rối
+done	đã làm
+door	cửa
+dream	mơ
+duck	vịt
+easy	dễ
+electric	thuộc về điện
+electricity	điện
+embarrassed	lúng túng
+empty	trống rỗng
+enough	đủ
+every	mỗi
+everything	mọi thứ
+example	ví dụ
+excellent	xuất sắc
+excuse	lời xin lỗi
+extremely	cực kỳ
+fact	thật sự
+fat	béo
+flag	lá cờ
+flat	phẳng
+for	cho
+found	đã tìm thấy
+from	từ
+funny	khôi hài
+future	tương lai
+garbage	rác
+goat	con dê
+good	tốt
+grass	cỏ
+green	xanh lục
+happy	hạnh phúc
+has	có
+heavy	nặng
+her's	của cô ta
+herself	chính cô ta
+high	cao
+himself	chính anh ta
+his	của anh ta
+history	lịch sử
+hole	lỗ
+holiday	ngày nghỉ
+hope	hi vọng
+horse	ngựa
+i	tôi
+idea	ý tưởng
+if	nếu
+important	quan trọng
+impossible	không thể
+impressive	gây ấn tượng
+inch	đơn vị đo chiều dài inh-sơ
+is	là
+it	nó
+joke	chuyện đùa
+king	vua
+lamp	đèn
+law	luật
+lay	đặt
+lazy	lười
+life	đời sống
+light	ánh sáng, đèn
+little	ít, nhỏ
+long	dài
+low	thấp
+luck	may mắn
+male	nam
+match	diêm
+matter	vấn đề
+maybe	có lẽ
+me	tôi
+metal	kim loại
+might	có thể
+mine	của tôi
+more	hơn
+most	phần lớn
+must	phải
+my	của tôi
+necessary	cần thiết
+never	không bao giờ
+new	mới
+newspaper	báo
+nice	dễ thương
+no	không
+noisy	ồn ào
+normal	bình thường
+not	không
+note	ghi chú
+notebook	vở
+nothing	không cái gì
+oder	mùi
+of	của
+oil	dầu
+ok	được
+old	già
+only	chỉ
+orange	cam
+ordinary	thông thường
+original	nguyên thủy
+other	khác
+our	của chúng tôi
+ours	của chúng tôi
+ourselves	chính chúng tôi
+paper	giấy
+part	phần
+pattern	mẫu
+pencil	bút chì
+perhaps	có lẽ
+person	người
+photograph	ảnh
+place	nơi
+plant	cây
+pleasant	dễ chịu
+poor	đáng thương
+possible	có thể
+possibly	có thể
+pretty	đẹp
+probably	có thể
+quick	nhanh
+quickly	nhanh
+quiet	yên lặng
+really	thực sự
+red	đỏ
+rock	đá
+rope	dây thừng
+round	tròn
+rule	luật
+sad	buồn
+same	cũng như vậy
+score	điểm số
+sentence	câu
+she	cô ta
+short	ngắn
+shoulder	vai
+simple	đơn giản
+sir	thưa ông
+skirt	váy
+slow	chậm
+slower	chậm hơn
+slowly	chậm
+small	nhỏ
+smart	thông minh
+some	vài
+someone	người nào đó
+something	cái gì đó
+sorry	xin lỗi
+so-so	vừa vừa
+strong	mạnh
+student	học sinh
+stupid	ngu ngốc
+tail	đuôi
+tall	cao
+tape	băng
+test	bài thì, kiểm tra
+than	hơn
+that	đó
+their	của họ
+theirs	của họ
+them	họ
+themselves	chính họ
+then	rồi thì
+these	những cái này
+they	họ
+thick	dày
+thin	mỏng
+thing	điều
+this	cái này
+those	những cái đó
+thought	đã nghĩ
+tiny	nhỏ
+told	đã nói với
+toy	đồ chơi
+trash	rác
+tree	cây
+triangle	tam giác
+true	đúng
+truth	sự thực
+ugly	xấu
+us	chúng tôi
+useful	hữu ích
+very	rất
+voice	giọng nói
+vowel	nguyên âm
+wall	tường
+war	chiến tranh
+we	chúng tôi
+weak	yếu
+well	tốt
+wheel	bánh xe
+white	trắng
+whose	của ai
+wide	rộng
+window	cửa sổ
+with	với
+without	không có
+woman	phụ nữ
+worse	tệ hơn
+worst	tệ nhất
+wrong	sai
+yellow	vàng
+yes	vâng
+yet	chưa
+you	bạn
+young	trẻ
+your	của bạn
+yours	của bạn
+yourself	chính bạn
+yourselves	chính các bạn
